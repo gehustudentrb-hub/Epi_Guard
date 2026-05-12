@@ -208,11 +208,6 @@ https://epigaurd.vercel.app/
 
 ---
 
-## **Short Demo Vedio **
-
-Disease_Outbreak-main\DemoVedio.mp4
-
----
 
 
 
